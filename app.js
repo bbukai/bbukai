@@ -9,7 +9,7 @@ var config = {
   app_name: "Multi Bits",
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: 6Le4xSETAAAAACdtebEvleopt5CRlXMs8eZ3j1tK,  // <----- EDIT ME!
+  recaptcha_sitekey: null,  // <----- EDIT ME!
   redirect_uri: "https://jacoder23.github.io/Multi-Bits",
   mp_browser_uri: "https://www.moneypot.com",
   mp_api_uri: "https://api.moneypot.com",
